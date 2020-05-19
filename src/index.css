@@ -1,0 +1,51 @@
+body {
+  margin: 50;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  background-color: blue;
+  color: white;
+  font-size: 14pt;
+  margin-bottom: 5px;
+  padding: 4px;
+  text-align: center;
+}
+
+div.lightBlueHeader {
+  background-color: deepskyblue;
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 7px;
+  margin-bottom: 5px;
+  padding: 4px;
+}
+
+button.simulatedLink {
+  background: none !important;
+  border: none;
+  color: black;
+  cursor: pointer;
+  font-size: 9pt;
+  font-weight: bold;
+  padding: 0 !important;
+  text-align: right;
+  text-decoration: underline;
+}
+
+input {
+  font-size: 10pt;
+}
+
+div.groceryItem {
+  font-size: 10pt;
+}
